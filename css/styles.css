@@ -40,6 +40,10 @@ body {
     color: var(--primary-text-color-theme-light)
 }
 
+.accent-dark {
+    color: var(--primary-text-color-theme-dark);
+}
+
 .section-title {
     font-weight: 700;
     font-size: 36px;
